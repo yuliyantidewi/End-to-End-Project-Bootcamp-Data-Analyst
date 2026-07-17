@@ -10,10 +10,10 @@ Welcome to my Data Analyst Bootcamp portfolio repository. This repository showca
 End-to-End-Project-Bootcamp-Data-Analyst
 │
 ├── kitchen-equipment-sales-analysis
-│   ├── raw-data
-│   ├── data-cleaning
-│   ├── sql
-│   └── dashboard
+│   ├── Raw Data
+│   ├── Data Cleaning
+│   ├── SQL
+│   └── Dashboard
 │
 ├── furniture-sales-eda
 │   ├── furniture_10k_FINAL.xlsx
